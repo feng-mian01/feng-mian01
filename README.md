@@ -1,16 +1,22 @@
-## Hi there 👋
+<img src="./src/Bottom_up.svg" width="100%" style="border-radius: 4px; margin: 8px 0;" alt="Tech Stack Banner">
+<img src="./src/header_.png" width="100%" style="border-radius: 4px; margin: 8px 0;" alt="Header Image">
 
-<!--
-**feng-mian01/feng-mian01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+| Property         | Data                                                                                                                                                                                                 |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Language / IDE   | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white) ![Sublime](https://img.shields.io/badge/-Sublime-FF9800?style=flat&logo=Sublime-Text&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white) |
+| Domain Knowledge | ![Web Security](https://img.shields.io/badge/-Web%20Security-2E8B57?style=flat&logoColor=white) ![Penetration Testing](https://img.shields.io/badge/-渗透测试-D32F2F?style=flat&logoColor=white) ![Web Development](https://img.shields.io/badge/-网页开发-4285F4?style=flat&logoColor=white) |
+| CI / CD          | ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF5733?style=flat&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white) |
+| OS               | ![Windows 11](https://img.shields.io/badge/-Windows%2011-0078D4?style=flat&logo=Windows-11&logoColor=white) ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=Kali-Linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white) |
+| Employment       | ![祖国的花朵](https://img.shields.io/badge/-祖国的花朵-FDCB6E?style=flat&logoColor=white) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 How to reach me
+- Email: -----------------------------
+- GitHub: https://github.com/feng-mian01
+
+---
+
+⭐️ From [feng-mian01](https://github.com/feng-mian01)
